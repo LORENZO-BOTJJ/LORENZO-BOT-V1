@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/CxyJv60j/download.jpg" alt="WH-MODS-DEV" width="300" />
 
 </p>
-<h1 align="center">WH MODS DEV</h1>
+<h1 align="center">LORENZOXBOT</h1>
 
 >
 >
@@ -14,7 +14,7 @@
   <a href="https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/𝟼𝟸𝟾2127487538">Klik disini untuk whatsapp OWNER </a>
+  <a href="https://wa.me/𝟼𝟸𝟾1217158010">Klik disini untuk whatsapp OWNER </a>
 </h4>
 </p>
 
